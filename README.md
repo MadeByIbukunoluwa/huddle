@@ -6,9 +6,13 @@ A single page landing page website, built with React, JavaScript, CSS and Styled
 This project is currently in development.Additional features such as better footer styling and react router to navigate between log in pages will be added soon
 
 # Project Screen Shots
-Example:
 Mobile-View:
  https://user-images.githubusercontent.com/88123302/187771654-ce2d7513-b153-426e-b005-235a231b50ec.png
+ 
+ 
+ 
+ 
+ 
 Desktop-View:
 https://user-images.githubusercontent.com/88123302/187771854-f22df661-faed-442b-81c4-aa3117335e94.png
 
@@ -18,15 +22,15 @@ Clone down this repository. You will need node and npm installed globally on you
 
 # Installation:
 
-# npm install
+ npm install
 
-To Start Server:
+# To Start Server:
 
-# npm start
+npm start
 
-To Visit App:
+# To Visit App:
 
-# localhost:3000
+ localhost:3000
 
 * This was a simple 2 day long side project built during my free time to enable me develop a better understanding of Styled Components as a CSS in JS styling framework included using technologies learned up until this point and familiarizing myself with the styled componenet documentation for new features and develop a better understanding of how it works.
 
